@@ -1,10 +1,10 @@
 
-var server = 'azure.openwit.tech';
+var server = '';
 var port = 1433;
 var instanceName = 'MSSQLSERVER'
 var dbName = 'openwitprod';
-var username = 'sa';
-var password = 'Seniorproject123!';
+var username = '';
+var password = '';
 var dbUrl = 'jdbc:sqlserver://' + server +  ":" + port;
 console.log(dbUrl)
 
