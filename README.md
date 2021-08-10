@@ -12,6 +12,20 @@ This study is based on a similar dataset from Paulo Cortez at the University of 
 
 ### Usage
 
+## Installation
+
+<ol>
+  <li> Create new Google Form with the questions being asked. </li>
+  <li> Copy code from INetResponses.gs to script editor of the form sheet.</li>
+  <li> Create new Microsoft SQL 2019 Server</li>
+  <li> Use redditTableCreate.sql script to create database needed for this. </li>
+  <li> Update code from INetResponses.gs to reflect your server/form settings.</li>
+  <li> Run form then run INetResponses.gs to confirm data is sending to database.</li>
+  <li> Create new Google Colab Pyspark instance </li>
+  <li> Use OpenWIT.ipynb file to create Pyspark instance. </li>
+  <li> Update pyodbc information and dataframe information with your data. </li>
+</ol>
+
 #### Explanation on each file
 
 <b>Database Scripts</b><br>
