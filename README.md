@@ -10,9 +10,9 @@ We will survey all University students and store, clean, analyze, and visualize 
 #### Novelty
 This study is based on a similar dataset from Paulo Cortez at the University of Minho, Portugal.(https://archive.ics.uci.edu/ml/datasets/Student+Performance)  This data was collected on two secondary education Portugese schools and the student’s grades in Math and Portugese classes. Where this study differs is the scope as well as the audience. The set of questions are more targeted towards the individual and focuses less on the family status. Also, it asks about institutional ratings and the students' thoughts on the services provided.
 
-### Usage
+## Usage
 
-## Installation
+#### Installation
 
 <ol>
   <li> Create new Google Form with the questions being asked. </li>
@@ -26,7 +26,7 @@ This study is based on a similar dataset from Paulo Cortez at the University of 
   <li> Update pyodbc information and dataframe information with your data. </li>
 </ol>
 
-#### Explanation on each file
+## Explanation on each file
 
 <b>Database Scripts</b><br>
 <ol><li>dbsetup.sql</li>
@@ -38,3 +38,6 @@ This study is based on a similar dataset from Paulo Cortez at the University of 
 <ol><li>sendData.gs</li>
 <li>INetResponses.gs</li></ol>
 <p>Are the two files used in Google Sheets script editor in order to send data from the Google Form responses to the MS SQL Database.</p>
+
+## Demo Video
+https://www.youtube.com/watch?v=o8LtLGMh0FI
