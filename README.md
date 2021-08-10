@@ -19,6 +19,7 @@ This study is based on a similar dataset from Paulo Cortez at the University of 
   <li> Copy code from INetResponses.gs to script editor of the form sheet.</li>
   <li> Create new Microsoft SQL 2019 Server</li>
   <li> Use redditTableCreate.sql script to create database needed for this. </li>
+  <li> Use tableCreate.sql to create the tables needed for the DB </li>
   <li> Update code from INetResponses.gs to reflect your server/form settings.</li>
   <li> Run form then run INetResponses.gs to confirm data is sending to database.</li>
   <li> Create new Google Colab Pyspark instance </li>
