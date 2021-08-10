@@ -44,5 +44,5 @@ https://www.youtube.com/watch?v=o8LtLGMh0FI
 
 ## Contributors
 
-<li> Jim Garrison (garrisonr@wit.edu), Systems/DB Architect, Backend Operations </li>
-<li> Dylan Goldrick (goldrickd@wit.edu), Front End / ML Operations </li>
+* Jim Garrison (garrisonr@wit.edu), Systems/DB Architect, Backend Operations
+* Dylan Goldrick (goldrickd@wit.edu), Front End / ML Operations
